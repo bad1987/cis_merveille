@@ -7,3 +7,17 @@
 ```
 pip install -r requirements.txt
 ```
+
+### instructions for the frontend
+
+#### the frontend is built with vuejs
+
+1. move to the intimia_frontend directory
+2. npm install
+3. npm run dev
+
+### here are the implemented routes
+- home: /
+- register: /register
+- login: /login
+- logout: /logout
